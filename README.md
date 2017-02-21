@@ -31,6 +31,8 @@ commit message
 fixes: #<issue number>
 ```
 
+* If you want to add a problem in this repository, contact us on our gitter channel [Bytes_Club/General](https://gitter.im/Bytes_Club/General)
+
 ### Contact
 
 Contact us on gitter by clicking the gitter badge above
