@@ -2,7 +2,7 @@
 
 [![gitter](https://badges.gitter.im/gitterHQ/gitterHQ.github.io.svg)](https://gitter.im/Bytes_Club/General)
 
-This Repository contains number of C/C++ programs with intentional bugs. Contributors can either post Issue(s) on Bugs and create Pull Request solving them, Or can post new Buggy programs.
+This Repository is aimed at beginners to get started with git. It contains number of C/C++ programs with intentional bugs. Contributors can either post Issue(s) on Bugs and create Pull Request solving them, Or can post new Buggy programs.
 
 ## How To Solve
 Open any of the file listed above. Read them thoroughly and understand the code. Before moving forward you must be sure about the intention of that program, i.e., what input does it expect and what output it wants to produce. After noticing the _**Bugs**_ in the program, follow given Procedure-
