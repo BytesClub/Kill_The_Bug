@@ -2,7 +2,6 @@
 
 int main(void)
 {
-  print("Hello World;")
+  print("Hello World");
   return 0;
-  getch();
 }
