@@ -3,6 +3,6 @@
 int main(void)
 {
 	int a = 5, b = 10, c = 2, d = 7;
-	printf("%d %d %d %d", a, d, c);
+	printf("%d %d %d %d", a , b , d, c,);
 	return 0;
 }
