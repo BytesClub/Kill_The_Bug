@@ -3,5 +3,4 @@
 int main()
 {
      printf("LOL");
-     return 0;
 }
