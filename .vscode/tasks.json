@@ -1,0 +1,27 @@
+
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Build Active C++ File",
+        "type": "shell",
+        "command": "clang++",
+        "args": [
+          "-std=c++17",
+          "-g",
+          "-O0",
+          "-Wall",
+          "-Wextra",
+          "${file}",
+          "-o",
+          "${fileDirname}/${fileBasenameNoExtension}"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": ["$gcc"]
+      }
+    ]
+  }
+  

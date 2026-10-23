@@ -1,0 +1,18 @@
+
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug Kill The Bug",
+        "type": "lldb",
+        "request": "launch",
+        "program": "${fileDirname}/${fileBasenameNoExtension}",
+        "args": [],
+        "cwd": "${fileDirname}",
+        "terminal": "integrated",
+        "stopOnEntry": false,
+        "preLaunchTask": "Build Active C++ File"
+      }
+    ]
+  }
+  
